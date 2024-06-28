@@ -199,5 +199,6 @@
             "price": 18.50
         }
     ],
-    "porcent":{"porcentValue": 7}
+    "porcent":{"porcentValue": 7},
+    "shopping": []
 }
